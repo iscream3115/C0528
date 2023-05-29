@@ -140,7 +140,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="bingo.cpp" />
-    <ClCompile Include="snail.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="필기.txt" />
