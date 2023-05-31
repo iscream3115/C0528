@@ -15,11 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="bingo.cpp">
+    <ClCompile Include="21_pointer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="필기.txt" />
+    <Text Include="과제0531.txt" />
   </ItemGroup>
 </Project>
