@@ -4,7 +4,6 @@
 #include <time.h>
 
 
-
 void shuffleArray(int arr[], int size);
 void printGrid(int grid[][5]);
 int checkBingo(int grid[][5]);
@@ -61,8 +60,6 @@ int main()
          printf("ºù°í °¹¼ö: %d\n", bingoNum);
     }
 
-    
-
     return 0;
 }
 
@@ -116,8 +113,6 @@ int checkBingo(int grid[][5])
         if (count == 5) totalBingo++;
         count = 0;
     }
-
-
 
     return totalBingo;
 
