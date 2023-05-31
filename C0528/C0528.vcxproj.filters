@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="21_pointer.cpp">
+    <ClCompile Include="2dPointer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

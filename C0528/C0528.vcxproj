@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="21_pointer.cpp" />
+    <ClCompile Include="2dPointer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="과제0531.txt" />
